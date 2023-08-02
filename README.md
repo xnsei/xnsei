@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I'm Tanmay - Full Stack Web Developer
+
+  - currently exploring and building MERN applications
+  - looking for an opportunity in same
+  - you can contact me on [twitter](https://twitter.com/TanmayBana53969)
