@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm Tanmay - Full Stack Web Developer
+#### I'm Tanmay - Software Engineer
 
   - currently exploring and building MERN and web3 applications
-  - looking for an opportunity in same
+  - looking for an opportunity
   - you can contact me on [twitter](https://twitter.com/TanmayBana53969)
