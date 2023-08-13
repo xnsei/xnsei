@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 #### I'm Tanmay - Software Engineer
 
-  - currently exploring and building MERN and web3 applications
-  - looking for an opportunity
-  - you can contact me on [twitter](https://twitter.com/TanmayBana53969)
+  - exploring MERN and web3 world
+  - contact: [twitter](https://twitter.com/TanmayBana53969)
