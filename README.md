@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 #### I'm Tanmay - Software Engineer
 
-  - exploring MERN and web3 world
+  - experience in building both frontend and backend systems
+  - exploring web3 world
   - contact: [twitter](https://twitter.com/TanmayBana53969)
