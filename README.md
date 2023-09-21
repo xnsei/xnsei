@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **xnsei/xnsei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 #### I'm Tanmay - Software Engineer
 
   - experience in building both frontend and backend systems
   - exploring web3 world
   - contact: [twitter](https://twitter.com/TanmayBana53969)
+-->
